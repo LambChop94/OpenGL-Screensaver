@@ -1,7 +1,6 @@
 
-3GC3 Assignment 1
+Simple OpenGL Screensaver
 Ryan Lambert
-1218407
 
 
 Controls
@@ -16,4 +15,3 @@ esc              -           Exit the program
 
 
 
-Note: Could not for the life of me get the poly mode or the speed changing to work. All I got were bugs and even crashed my computer a couple time haha.
